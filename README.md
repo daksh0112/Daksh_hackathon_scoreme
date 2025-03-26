@@ -23,8 +23,8 @@ This project is a table extraction tool that detects and extracts tables from sy
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository_link>
-   cd <repository_name>
+   git clone https://github.com/daksh0112/Daksh_hackathon_scoreme.git
+   cd Daksh_hackathon_scoreme
    ```
 2. Install dependencies:
    ```bash
