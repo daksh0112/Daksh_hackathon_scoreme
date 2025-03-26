@@ -63,9 +63,9 @@ For an input PDF file `sample.pdf`, the output will be saved as `extracted_table
 
 Here is a preview of the extracted table:
 
-<img src="output/output_1.PNG">
-<img src="output/output_2.PNG">
-<img src="output/output_3.PNG">
+<img src="output/output_1.png">
+<img src="output/output_2.png">
+<img src="output/output_3.png">
 
 
 
